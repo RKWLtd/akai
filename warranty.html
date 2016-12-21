@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>  
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Akai Electricals | Extend Your Warranty </title>
+        <meta name="description" content="Register for your free product warranty with Akai.">
+        <link rel="icon" href="img/assets/favicon.png" type="image/png">
+        <link rel="stylesheet" type="text/css" href="css/flaticon.css"> 
+        <link href="css/plugins.css" rel="stylesheet" type="text/css" media="all">   
+        <link href="css/theme.css" rel="stylesheet" type="text/css" media="all">  
+        <link href="css/icon-fonts.css" rel="stylesheet" type="text/css" media="all">
+        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all">
+        <link rel="stylesheet" href="css/pikaday.css" type="text/css" media="all">
+        <link rel="stylesheet" href="css/triangle.css" type="text/css" media="all">
+        
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300%7CMontserrat:400,700%7CRaleway:400,200,300' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Oswald:700,400|Open+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        
+        <!-- Start Header -->
+        <nav class="navbar navbar-default transparent">
+            <div class="container">
+                
+                <div class="navbar-header">
+                    <div class="container">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar top-bar"></span>
+                            <span class="icon-bar middle-bar"></span>
+                            <span class="icon-bar bottom-bar"></span>
+                        </button>
+                        <a class="navbar-brand logo-light scroll-btn-nav" href="index.html"><img src="img/assets/akai-logo.png" alt="Akai logo"></a>
+                        <a class="navbar-brand logo-dark scroll-btn-nav" href="index.html"><img src="img/assets/akai-logo.png" alt="Akai logo"></a>
+                    </div>
+                </div>
+                
+                <div id="navbar" class="navbar-collapse collapse">
+                    <div class="container">
+                        <ul class="nav navbar-nav menu-right"> 
+                            <li class="dropdown"><a href="index.html" class="dropdown-toggle">Home</a> 
+                            </li> 
+                            <li class="dropdown"><a href="about-us.html" class="dropdown-toggle">About Us</a> 
+                            </li>
+                            <li class="dropdown"><a href="index.html#product-range" class="scroll-btn-nav">Product Range</a> 
+                            </li>
+                            <li class="dropdown"><a href="#top-page" class="scroll-btn-nav">Extend Warranty</a> 
+                            </li>
+                            <li class="dropdown"><a href="contact.html" class="dropdown-toggle">Contact Us</a> 
+                            </li>
+                            
+                            <!-- Social Icons -->
+                            <li class="header-divider"><a><span></span></a></li> 
+                            <li><a href="https://www.facebook.com/akaiuk/"><span class="ion-social-facebook"></span></a></li>
+                            
+                        </ul>   
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- End Header -->
+        
+        <!-- Start Page Hero -->
+        <section id="top-page" class="page-hero">
+            <div class="page-hero-parallax">
+                <div class="hero-image about-us-bg">
+                    <div class="hero-container container pt50">  
+                        <div class="hero-content text-left scroll-opacity"> 
+                            <div class="text-center section-heading">
+                                <h1 class="lg-heading white mb10">Extend Your Warranty</h1>
+                                <p class="hero-text white mb10">Get full piece of mind with our free extended 3 year guarantee</p>
+                            </div>  
+                        </div> 
+                    </div> 
+                    
+                </div> 
+                
+            </div>
+        </section>
+        <!-- End Page Hero -->
+        
+        <div class="site-wrapper">            
+            
+            <!-- Start Contact Form Section -->    
+            <section id="contact" class="pt50 pb50">
+                <div class="container">
+                    <div class="row">  
+                        
+                        <div class="col-sm-1"></div>
+                        <div class="text-center col-sm-10 mb40 ml10">
+                            <h3 class="warranty-header">Thank You For Your Recent Purchase...</h3>
+                            <p> Please fill out the form below to register/extend your product warranty period, for a total of 3 years. The extended warranty is valid only with a proof of purchase, please keep this safe for the entirety of your warranty.</p>
+                        </div>
+                        
+                        
+                        <div class="col-sm-12"> 
+                            <div id="message"></div>
+                            <!-- Contact Form will be functional only on your server. Upload to your server when testing. -->
+                            <form id="warranty-form" action="https://trade.rkwltd.com/interface/list.php" method="post">
+                                <input type="hidden" name="accName" value="RKLTD1"/>
+                                <input type="hidden" name="listName" value="Akai Warranty List"/>
+                                <input type="hidden" name="fullEmailValidationInd" value="Y"/>
+                                <input type="hidden" name="doubleOptin" value="FALSE"/>
+                                <input type="hidden" name="successUrl" value="thankyou.html"/>
+                                <input type="hidden" name="errorUrl" value="NO-REDIRECT"/>
+                                
+                                <div class="col-sm-6">
+                                <input type="email" name="email" placeholder="Email Address..." required/><br />
+                                <input name="FirstName" placeholder="First Name..." required/><br />
+                                <input name="LastName" placeholder="Last Name..." required/><br />
+                                <input name="HouseNumber" placeholder="House Number..." required/><br />
+                                <input name="StreetName" placeholder="Street Name..." required/><br />
+                                <input name="Town" placeholder="Town..." required/><br />
+                                <div class="mt20 mb20">
+                                <label class="mr20">Gender:</label>
+                                Male<input class="warranty-input-radio" type="radio" name="Gender" value="Male"/>
+                                    <span class="ml20">Female</span><input class="warranty-input-radio" type="radio" name="Gender" value="Female"/></div>
+                                </div>
+                                <div class="col-sm-6">
+                                <input name="Postcode" placeholder="Postcode..." required/><br />
+                                <input id="datepicker-dob" name="DOB" placeholder="Date of Birth..." /><br />
+                                <input type="tel" name="Telephone" placeholder="Telephone..." /><br />
+                                <input name="ProductCode" placeholder="Product Code..." required/><br />
+                                <div class="batch-number">
+                                <a class="batch-icon" href="#batch" data-toggle="tooltip" data-placement="top" title="" data-original-title="The batch number can be found on the bottom of your Akai product and it's packaging."><li class="ion-information-circled" data-pack="default" data-tags="help, more, tooltip"></li></a>
+                                    <input type="number" name="BatchNumber" placeholder="Batch Number..."/>
+                                </div>
+                                <input id="datepicker-dop" name="DOP" placeholder="Date of Purchase..." required/><br />
+                                <input name="RetailerPurchasedFrom" placeholder="Retailer Purchased From..." /><br />
+                                </div>
+                                <div class="col-sm-12">
+                                <p class="mt10 mb0 small">By registering your product, you agree to the <a href="terms.html"><b>Terms and Conditions</b></a> and opt in to our email newsletter, which you can unsubscribe from at any time.</p><br />
+                                
+                                <input type="submit" class="submit" id="submit" value="Register" />
+                                </div>
+                            </form> 
+                        </div>
+                        
+                    </div>
+                </div>
+            </section>
+            <!-- End Contact Form Section -->
+            
+            <!-- Footer --> 
+            <section class="static footer-bg pt50 pb0"> 
+                <div class="container">  
+                    <div class="row pt20"> 
+                        
+                        <div class="col-md-12 text-center mb30 logo-anim">
+                            <a href="index.html"><img src="img/assets/footer-logo.png" class="width100 mb10" style="max-width:340px;" alt="Akai logo large"></a>
+                            <h5 class="footer-subheading subheading white mb30">Tomorrows Technology Today</h5>  
+                            <ul class="navbar-nav footer-nav mb20">
+
+                                <li><a href="warranty.html" target="_blank">Extend Your Warranty</a></li>
+                                <li><a href="terms.html" target="_blank">Terms &amp; Conditions</a></li>
+                                <li><a href="privacy.html" target="_blank">Privacy Policy</a></li>
+                                <li><a href="returns.html" target="_blank">Delivery &amp; Returns</a></li>
+                            </ul>
+                            <p>© Akai 2016</p>
+						</div> 
+                	</div>
+                </div>
+            </section>
+        	<!-- End Footer -->  
+            
+            <!-- Start Back To Top -->
+            <a id="back-to-top"><i class="icon ion-chevron-up"></i></a>
+            <!-- End Back To Top -->
+            
+        </div><!-- End Site Wrapper -->
+        
+        <!-- Scripts -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/plugins.js"></script>             
+        <script src="js/scripts.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.5.1/moment.min.js"></script>
+        <script src="js/pikaday.js"></script>
+    
+        <script>
+            var picker = new Pikaday(
+                {
+                    field: document.getElementById('datepicker-dob'),
+                    firstDay: 1,
+                    format: 'DD/MM/YYYY',
+                    theme: 'triangle-theme',
+                    minDate: new Date(1920, 1, 31),
+                    maxDate: new Date(),
+                    yearRange: [1920,2000],
+                    onSelect: function() {
+                        var date = document.createTextNode(this.getMoment().format('Do MMMM YYYY') + ' ');
+                        document.getElementById('selected').appendChild(date);
+                    }
+                });
+        </script>
+        <script>
+            var picker = new Pikaday(
+                {
+                    field: document.getElementById('datepicker-dop'),
+                    firstDay: 1,
+                    format: 'DD/MM/YYYY',
+                    theme: 'triangle-theme',
+                    minDate: new Date(2000, 1, 31),
+                    maxDate: new Date(),
+                    yearRange: [2000, 2100],
+                    onSelect: function() {
+                        var date = document.createTextNode(this.getMoment().format('Do MMMM YYYY') + ' ');
+                        document.getElementById('selected').appendChild(date);
+                    }
+                });
+        </script>
+        
+    </body>
+</html>

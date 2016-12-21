@@ -1,0 +1,284 @@
+/*--- PLACE YOUR CUSTOM STYLES HERE ---*/
+
+/*--- Background Images ---*/
+.bg-shortcodes {
+    background-image: url(../img/backgrounds/bg-shortcodes.jpg);  
+}
+.bg-light {
+    background-image: url(../img/backgrounds/bg-light.jpg);  
+}
+.bg-shop {
+    background-image: url(../img/backgrounds/bg-shop.jpg);  
+}
+.bg-about-me {
+    background-image: url(../img/backgrounds/bg-about-me.jpg);  
+}
+.bg-restaurant-1 {
+    background-image: url(../img/restaurant/bg-restaurant-1.jpg);  
+}
+.bg-restaurant-2 {
+    background-image: url(../img/restaurant/bg-restaurant-2.jpg);  
+}
+.bg-pattern-1 {
+    background-image: url(../img/backgrounds/bg-pattern-1.jpg);
+}
+.bg-pattern-2 {
+    background-image: url(../img/backgrounds/bg-pattern-2.jpg);
+}
+.bg-pattern-3 {
+    background-image: url(../img/backgrounds/bg-pattern-3.jpg);
+}
+.bg-pattern-4 {
+    background-image: url(../img/backgrounds/bg-pattern-4.jpg);
+}
+.bg-music-1 {
+    background-image: url(../img/music/bg-music-1.jpg);
+}
+.bg-photography-1 {
+    background-image: url(../img/photography/bg-photography-1.jpg);
+}
+.bg-photography-2 {
+    background-image: url(../img/photography/bg-photography-2.jpg);
+}
+.bg-photography-3 {
+    background-image: url(../img/photography/bg-photography-3.jpg);
+}
+.bg-fitness-1 {
+    background-image: url(../img/fitness/bg-fitness-1.jpg);
+}
+.bg-fitness-2 {
+    background-image: url(../img/fitness/bg-fitness-2.jpg);
+}
+.bg-fitness-3 {
+    background-image: url(../img/fitness/bg-fitness-3.jpg);
+}
+.bg-fitness-4 {
+    background-image: url(../img/fitness/bg-fitness-4.jpg);
+}
+.bg-event-1 {
+	background-image: url(../img/event/bg-event-1.jpg);  
+}
+.bg-event-2 {
+	background-image: url(../img/event/bg-event-2.jpg);  
+}
+.bg-food-1 {
+    background-image: url(../img/food/bg-food-1.jpg);  
+} 
+.bg-food-2 {
+    background-image: url(../img/food/bg-food-2.jpg);  
+} 
+.bg-food-3 {
+    background-image: url(../img/food/bg-food-3.jpg);  
+}  
+.bg-agency-1 {
+	background-image: url(../img/agency/bg-agency-1.jpg);  
+} 
+.bg-agency-2 {
+	background-image: url(../img/agency/bg-agency-2.jpg);  
+} 
+.bg-launching-1 {
+    background-image: url(../img/launching/bg-launching-1.jpg);  
+}
+.bg-launching-2 {
+    background-image: url(../img/launching/bg-launching-2.jpg);  
+}
+.bg-product-1 {
+    background-image: url(../img/product/bg-product-1.jpg);  
+}
+.bg-product-2 {
+    background-image: url(../img/product/bg-product-2.jpg);  
+} 
+.bg-education-1 {
+    background-image: url(../img/education/bg-education-1.jpg);  
+}
+.bg-education-2 {
+    background-image: url(../img/education/bg-education-2.jpg);  
+} 
+.bg-concepts-1 {
+    background-image: url(../img/concepts/bg-concepts-1.jpg);  
+}
+.bg-video-1 {
+    background-image: url(../img/video/bg-video-1.jpg); 
+}
+.bg-img-1 {
+    background-image: url(../img/backgrounds/bg-1.jpg); 
+}
+.bg-img-2 {
+    background-image: url(../img/backgrounds/bg-2.jpg); 
+}
+.bg-img-3 {
+    background-image: url(../img/backgrounds/bg-3.jpg); 
+}
+.bg-img-4 {
+    background-image: url(../img/backgrounds/bg-4.jpg);  
+}
+.bg-img-5 {
+    background-image: url(../img/backgrounds/bg-5.jpg); 
+} 
+.bg-img-6 {
+    background-image: url(../img/backgrounds/bg-6.jpg);  
+}
+.bg-img-7 {
+    background-image: url(../img/backgrounds/bg-7.jpg); 
+} 
+.bg-img-8 {
+    background-image: url(../img/backgrounds/bg-8.jpg);  
+}    
+.bg-img-9 {
+    background-image: url(../img/backgrounds/bg-9.jpg);  
+} 
+.bg-img-10 {
+    background-image: url(../img/backgrounds/bg-10.jpg);  
+} 
+.bg-img-11 {
+    background-image: url(../img/backgrounds/bg-11.jpg);  
+} 
+.bg-img-12 {
+    background-image: url(../img/backgrounds/bg-12.jpg);  
+} 
+.bg-img-13 {
+    background-image: url(../img/backgrounds/bg-13.jpg);  
+} 
+.bg-img-14 {
+    background-image: url(../img/backgrounds/bg-14.jpg);  
+} 
+.bg-img-15 {
+    background-image: url(../img/backgrounds/bg-15.jpg);  
+} 
+
+.bg-light-grey{
+    background-color: #f3f3f3;
+}
+
+
+/* custom bgs */
+
+.bg-img-01 {
+    background-image: url(../img/assets/bg-01.jpg); 
+}
+
+.bg-img-warranty {
+    background-image: url(../img/assets/bg-img-02.jpg); 
+}
+
+.bg-img-classic {
+    background-image: url(../img/assets/classic-bg.jpg); 
+}
+
+.dynmx-bg {
+    background-image: url(../img/assets/dynmx-bg.jpg);  
+} 
+
+.bg-usp {
+    background-image: url(../img/assets/bg-usp.jpg); 
+}
+
+.footer-bg{
+    background-image: url(../img/assets/footer-bg.jpg); 
+}
+
+.about-us-bg{
+    background-image: url(../img/assets/about-us-bg.jpg);
+}
+
+.shop-bg{
+    background-image: url(../img/assets/shop-bg.jpg);
+    background-position: top;
+}
+
+.contact-us-bg{
+    background-image: url(../img/assets/contact-us-bg.jpg);
+}
+
+.red-bg{
+    background-color: #DC1C1E;
+}
+
+.sport-bg{
+    background-image: url(../img/assets/sports-bg.jpg);
+}
+
+.pro-bg{
+    background-image: url(../img/assets/pro-bg.jpg);
+}
+
+.retro-bg-2{
+    background-image: url(../img/assets/retro-bg.jpg);
+}
+
+.dynmx-page-bg{
+    background-image: url(../img/assets/dynmx-page-bg.jpg);
+}
+
+/* retro bg colour animation */
+.bg-retro{
+    background-color: #b0ddea;
+    animation: bgchange 8s infinite;
+    -webkit-animation: bgchange 8s infinite;
+    -moz-animation: bgchange 8s infinite;
+    -o-animation: bgchange 8s infinite;
+}
+
+@-webkit-keyframes bgchange { 
+    from{
+        background-color: #B1DEEA;
+    }
+    25.333333%{
+        background-color: #B1DEEA;
+    }
+    33.333333%{
+        background-color: #F8D0E4;
+    }
+    58.666666%{
+        background-color: #F8D0E4;
+    }
+    66.666666%{
+        background-color: #FEE3B8;
+    }
+    91.999999%{
+        background-color: #FEE3B8;
+    }
+    to{
+        background-color: #B1DEEA;
+    }
+}
+
+/* responsive bgs */
+@media (max-width:1200px){
+    
+    .pro-bg{
+        background-image: url(../img/assets/pro-bg-md.jpg);
+    }
+    
+    .bg-img-classic {
+        background-image: url(../img/assets/classic-bg-1200.jpg); 
+    }
+}
+    
+@media (max-width:992px){
+    
+    .bg-img-warranty {
+        background-image: url(../img/assets/bg-img-02-992.jpg); 
+    }
+    
+    .dynmx-bg{
+        background-image: url(../img/assets/dynmx-bg-sm.jpg);
+    }
+    
+    .sport-bg{
+        background-image: url(../img/assets/sports-bg-md.jpg);
+    }
+
+}
+
+@media (max-width:500px){
+    
+    .pro-bg{
+        background-image: url(../img/assets/pro-bg-sm.jpg);
+    }
+    
+    .bg-img-classic {
+        background-image: url(../img/assets/classic-bg-600.jpg); 
+    }
+}
+ 

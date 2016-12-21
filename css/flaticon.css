@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/et-icons/flaticon.eot");
+	src: url("../fonts/et-icons/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/et-icons/flaticon.woff") format("woff"),
+	url("../fonts/et-icons/flaticon.ttf") format("truetype"),
+	url("../fonts/et-icons/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 40px;
+font-style: normal;
+}
+
+.flaticon-clock:before { content: "\f100"; }
+.flaticon-headphones:before { content: "\f101"; }
+.flaticon-targeting:before { content: "\f102"; }
