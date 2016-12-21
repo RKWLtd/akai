@@ -42,7 +42,7 @@ if(get_magic_quotes_gpc()) {
 // Enter the email address that you want to emails to be sent to.
 
 //$address = "example@example.com";
-$address = "enquiries@akaionline.co";
+$address = "daniel.mountford@rkw.co";
 
 
 // Configuration option.
